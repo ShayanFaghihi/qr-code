@@ -20,7 +20,7 @@ This is just a simple layout for showing how different businesses can show off t
 
 ### Screenshot
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+(./design/desktop-preview.jpg)
 
 
 ### Links
